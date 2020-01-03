@@ -5,7 +5,7 @@
     "scripts": {
         "api-tests-ref": "newman run Test/JsonAPITest.postman_collection.json"
     },
-    "author": "Güven Sezis",
+    "author": "Gueven Sezis",
     "dependencies": {
         "newman": "^4.5.7"
     }
