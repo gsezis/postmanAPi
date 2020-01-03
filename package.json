@@ -1,13 +1,12 @@
 {
-  "name": "apitest",
-  "version": "1.0.0",
-  "description": "Project for storing Postman test",
-  "scripts": {
-    "api-tests-ref": "newman run Test/JsonAPITest.postman_collection.json"
-  },
-  "author": "gueven sezis",
- 
-  "dependencies": {
-    "newman": "^4.5.7"
-  }
+    "name": "apitest",
+    "version": "1.0.0",
+    "description": "Project for storing Postman test",
+    "scripts": {
+        "api-tests-ref": "newman run Test/JsonAPITest.postman_collection.json"
+    },
+    "author": "Güven Sezis",
+    "dependencies": {
+        "newman": "^4.5.7"
+    }
 }
